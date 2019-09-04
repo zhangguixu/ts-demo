@@ -1,0 +1,16 @@
+{
+  "name": "ts-demo",
+  "version": "1.0.0",
+  "description": "ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "ss",
+    "dev": "tsc -w"
+  },
+  "author": "gutzhang",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
